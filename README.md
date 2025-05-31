@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">
+    <img alt="MarkTattoo" title="MarkTattoo" src=".github/logoMarkTattoo.svg" />
+</h1>
 
-## Getting Started
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-First, run the development server:
+## 🚀 Tecnologias
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Node.js](https://nodejs.org/en/)
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Drizzle](https://orm.drizzle.team/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💻 Projeto
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+O MarkTatto é um aplicativo para studios de Tattoo, para cadastros de profissionais, Clientes, e seus respectivos agendamentos - inspirado pelo app [doutor-agenda](https://github.com/felipemotarocha/doutor-agenda?_gl=1*1emfgte*_ga*MTIyNTUxNzg5NS4xNzQ4MzAyMzI4*_ga_37GXT4VGQK*czE3NDg3MDgwNzAkbzkkZzEkdDE3NDg3MDgwODEkajQ5JGwwJGgw) 💜
 
-## Learn More
+## 🔖 Layout
 
-To learn more about Next.js, take a look at the following resources:
+Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Layout Web](https://www.figma.com/design/0G9SAhJsDPpb9mXORSxxY3/dr.agenda?node-id=29-588&p=f&t=8oJHCDIpEISP2cjX-0)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧠 Agradecimento
 
-## Deploy on Vercel
+A aplicação foi publicada durante a semana Full Stack Week e serviu para minha evolução nas tecnologias acima citadas.
+Pretendo criar novos projetos utilizando esta aplicação como base, deste já agradeço ao Full Stack Club e todos os seus colaboradores.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## :memo: Licença
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Made with love ♥ and lots of children on your lap by [Tiago de Abreu](https://www.instagram.com/devtiagoabreu/) :wave:
