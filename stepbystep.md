@@ -11,3 +11,13 @@ npm i eslint-plugin-simple-import-sort@12.1.1 -D
 npm i drizzle-orm@0.43.1 pg@8.15.6
 
 npm i -D drizzle-kit@0.31.1
+
+// após a criação do schema
+npm install dotenv --save
+npx drizzle-kit push
+npx drizzle-kit studio
+
+// efetuar commit
+git add .  
+git status
+git commit -m "chore: add database setup with drizzle"
