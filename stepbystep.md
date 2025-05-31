@@ -21,3 +21,7 @@ npx drizzle-kit studio
 git add .  
 git status
 git commit -m "chore: add database setup with drizzle"
+
+//-Biblioteca de compponentes shadcn/ui
+npx shadcn@2.5.0 init
+npx shadcn@2.5.0 add button
