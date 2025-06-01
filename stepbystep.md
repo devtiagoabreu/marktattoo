@@ -25,3 +25,9 @@ git commit -m "chore: add database setup with drizzle"
 //-Biblioteca de compponentes shadcn/ui
 npx shadcn@2.5.0 init
 npx shadcn@2.5.0 add button
+
+// Página de login
+npx shadcn@2.5.0 add tabs
+npx shadcn@2.5.0 add card
+npx shadcn@2.5.0 add input label
+npx shadcn@2.5.0 add form
